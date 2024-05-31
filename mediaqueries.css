@@ -1,0 +1,8 @@
+@media screen and (max-width: 1200px) {
+    #desktop-nav {
+        display: none;
+    }
+    #hamburger-nav {
+        display: flex;
+    }
+} /* lorsque la taille de l'écran est inférieur à 1200 pixels la navigation sur le bureau va disparaître on veut à la place afficher le menu hamburger donc on fait hamburger nav */
