@@ -21,7 +21,7 @@ Travailler sur ce portfolio est une aventure passionnante. Cela me permet de met
 
 🔑 ᴄᴏᴍᴍᴇɴᴛ ᴀᴄᴄéᴅᴇʀ à ᴍᴏɴ ᴘᴏʀᴛꜰᴏʟɪᴏ
 
-Vous pouvez cliquez sur ce lien Vercel : https://vercel.com/gugus-projects-60929bb5/portfolio-gulbahar
+Vous pouvez cliquez sur ce lien Vercel : [https://vercel.com/gugus-projects-60929bb5/portfolio-gulbahar](https://portfolio-gulbahar.vercel.app)
 
 
 🙌 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ ᴇᴛ ꜱᴜɢɢᴇꜱᴛɪᴏɴꜱ
