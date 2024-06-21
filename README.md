@@ -13,7 +13,7 @@ Ce projet utilise les technologies suivantes :
 - JavaScript,
 - HTML,
 - CSS.
-- 
+  
 ⚒️ ᴇxᴘéʀɪᴇɴᴄᴇ ᴅᴇ ᴅéᴠᴇʟᴏᴘᴘᴇᴍᴇɴᴛ
 
 Travailler sur ce portfolio est une aventure passionnante. Cela me permet de mettre en pratique mes compétences en développement web et de me challenger avec de nouvelles idées et technologies.
